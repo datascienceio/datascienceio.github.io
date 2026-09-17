@@ -6,4 +6,4 @@
 4. [UI Design Min Projects](https://datascienceio.notion.site/UI-design-min-projects-385e980f732580eea2e8e6544adb2b35)
 
 
-Tech resource examples that had been implemented: Kedro, Vizro, CausalNex, n8n, Splunk Enterprise etc. 
+Tech resource examples that had been implemented: Kedro, Vizro, CausalNex, n8n etc. 
